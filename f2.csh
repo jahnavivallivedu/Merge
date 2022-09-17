@@ -6,4 +6,4 @@ ah
 bc 
 lc
 
-po ra
+nuvve pora
