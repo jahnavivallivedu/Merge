@@ -6,4 +6,4 @@ ah
 bc 
 lc
 
-nuvve pora
+nuvve ellu amma
